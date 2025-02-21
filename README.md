@@ -5,3 +5,5 @@
 Para ejecutar el challenge, debes poner:
 
 ´´´npm install react´´´
+
+Challenge amigo secreto 2
